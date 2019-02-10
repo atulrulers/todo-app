@@ -1,0 +1,18 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "A to do app",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul kumar ( atulrulers@gmail.com )",
+  "license": "ISC"
+}
